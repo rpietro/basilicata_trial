@@ -1,0 +1,119 @@
+An N-of-1 randomized controlled trial comparing a Situated Cognition online learning program vs. control and its effect on decision making: A reproducible research protocol
+============================================================================================================================================================================
+
+Mauro Maldonato Silvia Rosalia Bruno Melo Joao Ricardo Vissoci Ricardo
+Pietrobon
+
+Abstract
+--------
+
+<!-- write at the end -->
+
+Introduction
+------------
+
+The concept of situated cognition implies that our thinking is not
+restricted to our brains.
+
+Although this concept might initially seem outrageous, a typical example
+is that when a person is asked to what is the total population of
+Timbuktu in Mali, the answer would be nearly impossible to most of us,
+unless our memory is assisted by a technology such as [Google
+searching](https://www.google.com/). Of importance, cognitive
+enhancement through technologies is but one of many ways in which
+cognition can be enhanced, with potentially beneficial gains from a
+learning perspective. Despite a substantial body of literature in the
+Humanities about the concept of situated cognition, to our knowledge its
+potential positive effect on online learning has not been previously
+tested in randomized trials.
+
+-   situated cognition
+    -   4 es
+    -   cognitive schema theory
+    -   situated cognition as an extension of schema theory. This
+        extension through situated cognition could explain, for example,
+        why clinicians will often reason based not only on their
+        knowledge of basic sciences such as pathophysiology but instead
+        use situational experiences such as previous clinical cases
+        (@aydede2009cambridge).
+
+The objective of this parallel randomized trial is therefore to compare
+standard training vs. an intervention involving {behavior} in educating
+college students regarding {course}, the study design, conductance and
+reporting following a reproducible research approach. We hypothesized
+that the intervention would result in better <!-- add outcomes -->
+
+Methods
+-------
+
+Study reported following recommendations by the [CONSORT
+statement](http://www.consort-statement.org/)
+
+Ethics
+======
+
+Approval by IRB, informed consent
+
+### Trial Design
+
+-   parallel controlled
+-   {number} participants
+-   1 month weekly training or control
+-   No changes to the initially methods design were implemented while
+    the trial was in course.
+
+### Participants
+
+-   {number} participant
+    <!-- add characteristics such as gender, residency year, age -->
+-   demographic info is provided as a separate dataset in our
+    reproducible research protocol to preserve confidentiality
+-   location
+    <!-- describe Matera in terms of number of patients, beds, available specialties, how patients from other areas might be referred there  -->
+
+### Interventions
+
+-   proactivity course
+    -   search training technology
+    -   forums social
+    -   agile training enacted
+
+<!-- add CONSORT for Non-Pharmacological Treatment Interventions -->
+
+<!-- soft skills, tacit knowledge, rationality, competition, empathy, choice, aesthetics, memory, emotion, happiness - ask mauro for opinion on what could work -->
+
+
+### Outcomes
+
+-   situated cognition diary - filled out twice/week
+-   evaluation at baseline and last day through scale
+    -   search training technology
+    -   forums social
+    -   agile training enacted
+
+<!-- add any changes to outcomes happening during the trial  -->
+
+### Sample size
+
+<!-- any interim analyses if they happened -->
+
+### Randomization
+
+Sequence generation R and blocking if applicable Allocation concealment
+Implementation envelopes Blinding
+
+### Statistical methods
+
+R language (@rcitation2014)
+
+### Reproducible research
+
+<!-- take from previous papers -->
+
+Results
+-------
+
+<!-- add this section in alignment with CENT -->
+
+Discussion
+----------
